@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+[x] is this a list 
+things to buy
+ - vege
+ - egg
+  - water
